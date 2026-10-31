@@ -9,37 +9,26 @@ descontos e mostra o que o sócio pode usar no clube.
 
 ## Objetivo
 
-Transformar um exercício simples de "ler dados, fazer contas e mostrar o
-resultado" em um projeto completo, seguindo o caminho de um trabalho
-profissional: entender o problema, organizar as regras, programar, testar,
-melhorar o código e documentar.
+Transformar um exercício simples de "ler dados, fazer contas e mostrar o resultado" em um projeto mais completo, seguindo etapas comuns do desenvolvimento de software: entender o problema, organizar as regras, programar, testar, melhorar o código e documentar.
 
 ## Desenvolvimento assistido por IA
 
 Este é um **projeto de estudo desenvolvido com auxílio de inteligência artificial**.
-O **Claude Code** foi utilizado para apoiar a criação da estrutura inicial, a geração
-de partes do código, a organização da documentação e dos testes.
 
-A partir dessa base, o projeto está sendo usado como laboratório de aprendizagem:
-o código será lido, executado, testado e modificado ao longo dos estudos. O objetivo
-é compreender as decisões técnicas, fazer alterações próprias e registrar essa
-evolução no histórico do Git.
+A IA foi utilizada como ferramenta de apoio na criação, revisão, documentação e evolução do projeto. A partir da estrutura inicial, o código está sendo utilizado como laboratório de aprendizagem, sendo lido, executado, testado e modificado ao longo dos estudos.
 
-Neste repositório, IA é tratada como **ferramenta de apoio ao desenvolvimento
-(AI-assisted development)**, e não como substituta do aprendizado. As mudanças
-posteriores serão feitas de forma incremental, com foco em entender e explicar o
-funcionamento do sistema.
+O objetivo é compreender as decisões técnicas, realizar alterações próprias e registrar essa evolução no histórico do Git.
+
+Neste repositório, a inteligência artificial é tratada como **ferramenta de apoio ao desenvolvimento (AI-assisted development)**, e não como substituta do aprendizado.
 
 ### Participação no projeto
 
-- **Estrutura inicial e apoio na geração de código:** Claude Code.
-- **Definição do projeto de estudo, revisão, testes e evolução:** Vinicius Moreira Ferreira.
-- **Objetivo atual:** estudar o código existente e realizar melhorias progressivas.
+- **Claude Code** — apoio na criação da estrutura inicial, geração de partes do código, testes e documentação.
+- **ChatGPT (OpenAI)** — apoio na revisão do projeto, organização da documentação, orientação sobre Git/GitHub e planejamento das melhorias.
+- **Vinicius Moreira Ferreira** — responsável pelo projeto de estudo, pelas decisões de aprendizado, revisão, compreensão do código e evolução progressiva do sistema.
+- **Objetivo atual** — estudar o código existente, compreender seu funcionamento e realizar melhorias progressivas.
 
-> O termo informal **vibe coding** pode descrever parte do processo de prototipação,
-> mas neste projeto prefiro usar **desenvolvimento assistido por IA**, por deixar
-> mais claro o papel da ferramenta e o objetivo de aprendizagem.
-
+> O termo informal **vibe coding** pode descrever parte do processo de prototipação, mas neste projeto é utilizado o termo **desenvolvimento assistido por IA**, por representar melhor o papel das ferramentas e o objetivo de aprendizagem.
 ## Estrutura do projeto
 
 ```text
